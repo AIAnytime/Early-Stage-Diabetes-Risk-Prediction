@@ -36,7 +36,7 @@ See the **Confusion Matrix and Classification Report** below:
 
 ## Deployment 👇
 
-**I built an awesome application, find it here: predict-smart.herokuapp.com**
+**I built an awesome application, find it here: http://predict-smart.herokuapp.com**
 
 You can use saved models which are in the pickel files to build any kind of application i.e. Web, Serverless Rest APIs, Mobile Apps, etc. Connect me for more on it...............................
 
