@@ -23,7 +23,7 @@
 
 ## Evaluation and Interpretation👇
 
-All the models have performed well but **Decision Tree** leads to a better accuracy and shows promising result in evaluation steps as well. **The Decision Tree Classifier has given 94% accuracy ahead of Logistic Regression (90%) and KNN (88%).**
+All the models have performed well but **Decision Tree** leads to a better accuracy and shows promising result in evaluation steps as well. **The Decision Tree Classifier has given 94% accuracy ahead of Logistic Regression (90%) and KNN (88%). But in Decision Tree, it seems to overfit and "Age" has strong correlation with Target. I have used Logistic Regression ahead of Decision Tree for this task.**
 
 <a href="https://ibb.co/8MmFXqN"><img src="https://i.ibb.co/LS04vmY/decision-tree-plot.png" alt="decision-tree-plot" border="0"></a>
 
